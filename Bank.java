@@ -1,5 +1,5 @@
 package com.bank;
-
+// bank example
 class Account{
 	double balance;
 
